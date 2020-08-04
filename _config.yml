@@ -34,13 +34,13 @@ url: "https://jimmymanianchira.github.io" # the base hostname & protocol for you
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/blog" # the subpath of your site, e.g. "/blog".
+baseurl: "/philosophicalai" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: 
+    github: 
 
 # Set this to true to get LaTeX math equation support
 use_math: 
