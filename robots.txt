@@ -1,1 +1,1 @@
-Sitemap: https://jimmymanianchira.github.io/philosophicalai/sitemap.xml
+Sitemap: https://jimmymanianchira.github.io/blog/sitemap.xml
